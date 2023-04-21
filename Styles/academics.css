@@ -1,0 +1,162 @@
+* {
+    margin: 0px;
+    padding: 0px;
+  }
+body{
+    /* background-image: url(/images/studio-background-concept-abstract-empty-light-gradient-purple-studio-room-background-product.jpg); */
+    background-size:100%;
+}
+header{
+    background-color: black;
+    height: 80px;
+}
+#logo{
+    margin-top: -1.1em;
+}
+.navigation{
+    
+    float: right;
+    margin-right: 70px;
+    margin-top: 32px;
+}
+
+.navigation a{
+    color: black;
+    border-radius: 100px;
+    background-color: rgb(161, 240, 43);
+    padding: 10px;
+    text-decoration: none;
+   
+}
+
+.navigation a:hover{
+    color: white;
+    background-color:rgb(136, 24, 136);
+    transition: background-color 0.2s ease-in-out 0.01ms;
+}
+
+h1{
+    text-align: center;
+    color: aliceblue;
+    margin-top: 2.5em;
+}
+.mba{
+    float: left;
+    color: aliceblue;
+    line-height: 1.5em;
+    border: 1px solid greenyellow;
+    border-radius: 20px;
+    width:28%;
+    padding: 15px;
+    text-align:left;
+    background-color: black;
+    margin-top: 4em;
+    margin-left: 15%;
+}
+.mba h2{
+    text-align: center;
+    text-decoration:underline;
+
+}
+
+.mba:hover{
+    background-color: rgb(141, 214, 32);
+    color: black;
+    border: 1px solid black;
+    transition: background-color 0.3s ease-in-out;
+    margin-top: 3.1em;
+    transition: margin-top 0.3s ease-in-out;
+
+    
+}
+.btech{
+    float: right;
+    color: aliceblue;
+    line-height: 1.5em;
+    border: 1px solid greenyellow;
+    border-radius: 20px;
+    width:28%;
+    padding: 15px;
+    text-align:left;
+    background-color: black;
+    margin-top: 4em;
+    margin-right: 15%;
+}
+.btech h2{
+    text-align: center;
+    text-decoration:underline;
+
+}
+
+.btech:hover{
+    background-color: rgb(141, 214, 32);
+    color: black;
+    border: 1px solid black;
+    transition: background-color 0.3s ease-in-out;
+    margin-top: 3.em;
+    transition: margin-top 0.3s ease-in-out;
+
+    
+}
+.plustwo{
+    float: left;
+    color: aliceblue;
+    line-height: 1.5em;
+    border: 1px solid greenyellow;
+    border-radius: 20px;
+    width:28%;
+    padding: 15px;
+    text-align:left;
+    background-color: black;
+    margin-top: 4em;
+    margin-left: 15%;
+}
+.plustwo h2{
+    text-align: center;
+    text-decoration:underline;
+
+}
+
+.plustwo:hover{
+    background-color: rgb(141, 214, 32);
+    color: black;
+    border: 1px solid black;
+    transition: background-color 2s ease-in-out ;
+    margin-top: 3.1em;
+    transition: margin-top 0.3s ease-in-out;
+}
+.tenth{
+    float: right;
+    color: aliceblue;
+    line-height: 1.5em;
+    border: 1px solid greenyellow;
+    border-radius: 20px;
+    width:28%;
+    padding: 15px;
+    text-align:left;
+    background-color: black;
+    margin-top: 4em;
+    margin-right: 15%;
+}
+.tenth h2{
+    text-align: center;
+    text-decoration:underline;
+
+}
+
+.tenth:hover{
+    background-color: rgb(141, 214, 32);
+    color: black;
+    border: 1px solid black;
+    transition: background-color 0.3s ease-in-out;
+    margin-top: 3.1em;
+    transition: margin-top 0.3s ease-in-out;   
+}
+.footer{
+    text-align: center;
+    margin-top: 35.15%;
+    color: aliceblue;
+    background-color: black;
+    height:2em;
+    padding-top: 20px;
+}

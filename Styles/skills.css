@@ -1,0 +1,139 @@
+* {
+    margin: 0px;
+    padding: 0px;
+  }
+body{
+    background-image: url(/images/studio-background-concept-abstract-empty-light-gradient-purple-studio-room-background-product.jpg);
+    background-size:100%;
+}
+header{
+    background-color: black;
+    height: 80px;
+}
+#logo{
+    margin-top: -1.1em;
+}
+.navigation{
+    
+    float: right;
+    margin-right: 70px;
+    margin-top: 32px;
+}
+
+.navigation a{
+    color: black;
+    border-radius: 100px;
+    background-color: rgb(161, 240, 43);
+    padding: 10px;
+    text-decoration: none;
+   
+}
+
+.navigation a:hover{
+    color: white;
+    background-color:rgb(136, 24, 136);
+    transition: background-color 0.2s ease-in-out 0.01ms;
+}
+
+#skills{
+    border: 1px solid;
+    border-radius: 30px;
+    background-color: black;
+    width:99%;
+    margin-top: 5em;
+    margin-left: 8px;
+    height: 25em;
+    padding: -10%;   
+}
+#skills h2{
+    margin-top: 20px;
+}
+.skills1 h3{
+    text-align: center;
+}
+.skills2 h3{
+    text-align: center;
+}
+.container {
+    text-align: center;
+}
+.list{
+    display: inline-block;
+    text-align: left;
+}
+h2{
+    color: aliceblue;
+    text-align: center;
+    font-size:xx-large
+    
+    
+}
+
+.skills1{
+    color: aliceblue;
+    left: 50%;
+    float:left;
+    border: 2px solid greenyellow;
+    border-radius: 50px;
+    background-color:black;
+    width: 20%;
+    padding: 10px;
+    padding-left: 35px;
+    margin-left: 27%;
+    margin-top: 40px;
+    height: 13em;
+    line-height: 25px;
+}
+
+.skills2{
+    color: aliceblue;
+    left: 50%;
+    float:left;
+    border: 2px solid greenyellow;
+    border-radius: 50px;
+    background-color:black;
+    width: 20%;
+    padding: 10px;
+    padding-left: 35px;
+    margin-left: 1%;
+    margin-top: 40px;
+    height: 13em;
+    line-height: 25px;
+}
+ul{
+    margin-top: 20px;
+    list-style:circle;
+    font-size:medium;
+}
+
+.activities{
+    float:left;
+    border: 2px solid greenyellow;
+    border-radius: 50px;
+    margin-top: 20% ;
+    margin-left: -48.6%;
+    color: white;
+    width: 50%;  
+    background-color: black;
+    height: 13em;
+    
+}
+.list2{
+    margin-left: 24em;
+    display: inline-block;
+    text-align: left;
+    line-height: 25px;
+}
+.activities h3{
+    margin-top: 25px;
+    font-size: x-large;
+    text-align: center;
+}
+.footer{
+    text-align: center;
+    margin-top: 20.18em;
+    color: aliceblue;
+    background-color: black;
+    height:2em;
+    padding-top: 20px;
+}

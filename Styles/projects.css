@@ -1,0 +1,103 @@
+* {
+    margin: 0px;
+    padding: 0px;
+  }
+body{
+    background-image: url(/images/studio-background-concept-abstract-empty-light-gradient-purple-studio-room-background-product.jpg);
+    background-size:100%;
+}
+header{
+    background-color: black;
+    height: 80px;
+}
+#logo{
+    margin-top: -1.1em;
+}
+.navigation{
+    
+    float: right;
+    margin-right: 70px;
+    margin-top: 32px;
+}
+
+.navigation a{
+    color: black;
+    border-radius: 100px;
+    background-color: rgb(161, 240, 43);
+    padding: 10px;
+    text-decoration: none;
+   
+}
+
+.navigation a:hover{
+    color: white;
+    background-color:rgb(136, 24, 136);
+    transition: background-color 0.2s ease-in-out 0.01ms;
+}
+h1{
+    color: azure;
+    margin-left: 46%;
+
+}
+.mba{
+    border: 1px ;
+    border-radius: 30px;
+    width: 72%;
+    color:azure;
+    padding: 15px;
+    padding-top: 50px;
+    margin-left:13.5%;
+    background-color: black;
+    height: 14em;
+    text-indent: 3em;
+    line-height: 2em;
+    font-family:'Times New Roman', Times, serif;
+    
+}
+.mba h2{
+    font-family:Arial, Helvetica, sans-serif;
+    text-align: center;
+    text-decoration: underline;
+    color:lightgreen   
+}
+.mba button{
+    margin-left: 42%;
+    width: 15%;
+    height: 2em;
+    margin-top: 45px;
+}
+.mba a {
+    text-decoration: none;
+}
+.btech{
+    border: 1px ;
+    position: relative;
+    border-radius: 30px;
+    width: 72%;
+    color:azure;
+    padding: 15px;
+    padding-top: 50px;
+    margin-left:13.5%;
+    margin-top: 30px;
+    background-color: black;
+    height: 12em;
+    text-indent: 3em;
+    line-height: 2em;
+    
+}
+.btech h2{
+    font-family:Arial, Helvetica, sans-serif;
+    text-align: center;
+    text-decoration: underline;
+    color:lightgreen
+    
+}
+
+.footer{
+    text-align: center;
+    margin-top: 8.6em;
+    color: aliceblue;
+    background-color: black;
+    height:2em;
+    padding-top: 20px;
+}
